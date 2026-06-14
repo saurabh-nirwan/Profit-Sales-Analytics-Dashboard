@@ -6,7 +6,7 @@ An interactive sales analytics dashboard built using **Google Looker Studio** to
 ## 🚀 Live Dashboard
 
 🔗 **Live Dashboard:**  
-https://your-looker-studio-link
+https://datastudio.google.com/s/p4LjfPf-46g
 
 ---
 
@@ -117,7 +117,7 @@ Wave-Shoes-Sales-Dashboard/
 
 Access the live dashboard here:
 
-https://datastudio.google.com/reporting/f837f3e8-1700-4b00-81f4-5181476a6d02
+https://datastudio.google.com/s/p4LjfPf-46g
 ---
 
 ## 👨‍💻 Author
